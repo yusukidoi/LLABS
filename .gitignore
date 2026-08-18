@@ -1,0 +1,14 @@
+# Root
+.env
+*.pyc
+__pycache__/
+
+# Frontend build artifacts
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Python
+backend/.venv/
+backend/venv/
+backend/.pytest_cache/
